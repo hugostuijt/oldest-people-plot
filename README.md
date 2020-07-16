@@ -2,7 +2,4 @@
 
 Plots the age of the oldest person alive over time. Data obtained from Wikipedia. 
 
-
-![](plot.png | width=250)
-
-<img src="plot.png" width="48">
+<img src="plot.png" width="250">
