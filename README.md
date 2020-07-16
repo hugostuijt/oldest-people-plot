@@ -3,5 +3,5 @@
 Plots the age of the oldest person alive over time. Data obtained from Wikipedia. 
 
 
-![kkkt](plot.png?raw=true "")
+![](plot.png?raw=true| width=250)
 
